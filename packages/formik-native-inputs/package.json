@@ -1,6 +1,6 @@
 {
   "name": "formik-native-inputs",
-  "homepage": "https://github.com/promptworks/react-native-forms/tree/master/packages/formik-native-inputs",
+  "repository": "https://github.com/promptworks/react-native-forms/tree/master/packages/formik-native-inputs",
   "description": "React components for creating data-driven forms using Formik in React Native.",
   "license": "MIT",
   "version": "1.4.0",
