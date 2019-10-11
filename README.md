@@ -1,4 +1,4 @@
-# React Native Forms
+# React Native Forms ![Build](https://img.shields.io/travis/promptworks/react-native-forms/master?style=flat-square)
 
 Utilities for building forms with React Native.
 
