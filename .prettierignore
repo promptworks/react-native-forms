@@ -1,0 +1,4 @@
+apps/*/dist/
+packages/*/lib/
+node_modules
+.expo

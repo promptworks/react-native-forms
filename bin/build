@@ -1,0 +1,6 @@
+#!/bin/bash
+
+node_modules/.bin/tsc -b \
+  packages/react-native-baseline-inputs \
+  packages/formik-native-inputs \
+  "$@"
